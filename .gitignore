@@ -1,3 +1,9 @@
 *.o
 framebuffer.tga
 main
+
+.vscode/*
+
+*/main
+*/*.o
+*/*.tga
